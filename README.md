@@ -5,6 +5,7 @@ Trafalgar provides progressive, and affordable healthcare, accessible on
 mobile and online for everyone
 
 ### Languages used: HTML & CSS
+### Libraries used: Font Awesome
 ### Page is fully responsive with all screens
 
 
@@ -19,7 +20,7 @@ mobile and online for everyone
 
 ## Demo
 
-Insert gif or link to demo
+https://ahmedbendary96.github.io/Trafalgar-Landing-Page/
 
 
 ## 🚀 About Me
